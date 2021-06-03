@@ -1,0 +1,14 @@
+To jest przykładowy wzorzec aplikacji w języku C++
+pliki źródłowe należy umieszczać w katalogu src,
+natomiast pliki nagłówkowe umieszczamy w katalogu include
+
+W pliku makefile zmieniamy nazwę po BIN := na dowolną nazwę jak plik wynikowy
+ma się nazywać.
+
+Aplikację kompilujemy za pomocą polecenia make
+
+
+Lucjan Bryndza
+
+
+
