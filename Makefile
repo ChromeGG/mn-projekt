@@ -1,5 +1,5 @@
 # Nazwa pliku wyjsciowego
-BIN := hello_world
+BIN := random_number_generator
 
 # lista plikow zrodowych automatycznie z katalogu src
 SRCS := $(wildcard src/*.cpp)

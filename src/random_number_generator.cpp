@@ -17,6 +17,10 @@
  */
 #include <iostream>
 
+double clg() {
+	
+}
+
 int main() {
-	std::cout << "C++ example hello world application" << std::endl;
+	std::cout << "Random number generator based on given numerical method" << std::endl;
 }
