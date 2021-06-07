@@ -31,8 +31,7 @@ long seed;
 
 // a * b mod n
 long multiply(long a, long b, long n) {
-    long m = 0, w = 0;
-
+    long m = 1, w = 0;
     while (m) {
         if (b & m) {
             w = (w + a) % n;
